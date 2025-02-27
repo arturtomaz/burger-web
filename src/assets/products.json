@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Cheeseburger Classic",
+      "price": 24.90,
+      "category": "Traditional",
+      "image": "/burgers-images/burger1.png",
+      "warning": "Promoção"
+    },
+    {
+      "name": "Bacon Supreme",
+      "price": 29.90,
+      "category": "Traditional",
+      "image": "/burgers-images/burger2.png",
+      "warning": "Mais pedido"
+    },
+    {
+      "name": "Veggie Delight",
+      "price": 26.90,
+      "category": "Vegan",
+      "image": "/burgers-images/burger3.png",
+      "warning": ""
+    },
+    {
+      "name": "Kids Burger",
+      "price": 19.90,
+      "category": "Kids",
+      "image": "/burgers-images/burger4.png",
+      "warning": ""
+    },
+    {
+      "name": "Beyond Burger",
+      "price": 28.90,
+      "category": "Vegan",
+      "image": "/burgers-images/burger1.png",
+      "warning": ""
+    },
+    {
+      "name": "Mini Cheeseburger",
+      "price": 17.90,
+      "category": "Kids",
+      "image": "/burgers-images/burger2.png",
+      "warning": ""
+    }
+  ]
+  
